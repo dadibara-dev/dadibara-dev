@@ -87,5 +87,5 @@ Kami sangat terbuka untuk kontribusi internal dari pengurus maupun pemuda Karang
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and dedication by <b>Mazda Nawallsyah</b> & Team Karang Taruna Dadi Bara Dev</sub>
+  <sub>Built with ❤️ and dedication by <b>Information Technology Division</b> & Team Karang Taruna Dadi Bara Dev</sub>
 </div>
